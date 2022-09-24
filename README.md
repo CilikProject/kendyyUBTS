@@ -2,7 +2,7 @@
 <h2 align="center"> KENDYYUBT </h2>
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-<p align="center"><a href="https://github.com/serwalker/shin-pyro"> <img src="https://telegra.ph/file/9ffcecae609a1aae73971.jpg"/></a></p>
+<p align="center"><a href="https://github.com/serwalker/shin-pyro"> <img src="https://telegra.ph/file/6bc7888f28d8798c15a1f.jpg"/></a></p>
 
 
 
