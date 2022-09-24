@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Mhdkendyy/kendyyUBT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="215""/</a>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=c2Vyd2Fsa2VyL3NoaW4tcHlybyBtYWlu"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215""/</a>  </p>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=TWhka2VuZHl5L2tlbmR5eVVCVCBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215""/</a>  </p>
 
 
 
