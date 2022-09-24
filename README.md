@@ -1,6 +1,14 @@
-# KendyyUBT
-A simple Telegram userbot based on Telethon .
-![kendyyUBT logo](.)
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+<h2 align="center"> KENDYYUBT </h2>
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+
+<p align="center"><a href="https://github.com/serwalker/shin-pyro"> <img src="https://telegra.ph/file/9ffcecae609a1aae73971.jpg"/></a></p>
+
+
+
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Mhdkendyy/kendyyUBT)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Mhdkendyy/kendyyUBT/graphs/commit-activity) 
@@ -15,10 +23,13 @@ A simple Telegram userbot based on Telethon .
 [![GitHub stars](https://img.shields.io/github/stars/Mhdkendyy/kendyyUBT?&style=flat-square&logo=github)](https://github.com/Mhdkendyy/kendyyUBT/stargazers)
 
 
+##  DEPLOY TO BOT HEROKU
 
-## How to deploy catuserbot
-### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mhdkendyy/kendyyUBT)
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Mhdkendyy/kendyyUBT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="215""/</a>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=c2Vyd2Fsa2VyL3NoaW4tcHlybyBtYWlu"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215""/</a>  </p>
+
+
 
 ### Self host
   - [check this](https://kendyyUBT.gitbook.io/kendyyUBT/tutorial/self-host)
