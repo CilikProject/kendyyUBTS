@@ -6,7 +6,7 @@ import heroku3
 
 from .Config import Config
 from .core.logger import logging
-from .core.session import catub
+from .core.session import kenubt
 from .helpers.functions.converter import Convert
 from .helpers.functions.musictool import *
 from .helpers.utils.utils import runasync
@@ -14,16 +14,16 @@ from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
 __version__ = "3.2.0"
 __license__ = "GNU Affero General Public License v3.0"
-__author__ = "CatUserBot <https://github.com/TgCatUB/catuserbot>"
-__copyright__ = f"CatUserBot Copyright (C) 2020 - 2021  {__author__}"
+__author__ = "kendyyUBT <https://github.com/Mhdkendyy/kendyyUBT>"
+__copyright__ = f"kendyyUBT Copyright (C) 2021 - 2022  {__author__}"
 
-catub.version = __version__
-catub.tgbot.version = __version__
-LOGS = logging.getLogger("CatUserbot")
-bot = catub
+Kenubt.version = __version__
+kenubt.tgbot.version = __version__
+LOGS = logging.getLogger("kendyyUBT")
+bot = kenubt
 
 StartTime = time.time()
-catversion = "3.2.0"
+Kenversion = "3.2.0"
 
 
 def close_connection(*_):
