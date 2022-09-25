@@ -40,13 +40,13 @@ def get_key(val):
     pattern="sudo (on|off)$",
     command=("sudo", plugin_category),
     info={
-        "header": "To enable or disable sudo of your Catuserbot.",
+        "header": "To enable or disable sudo of your kendyyUBT.",
         "description": "Initially all sudo commands are disabled, you need to enable them by addscmd\n Check `{tr}help -c addscmd`",
         "usage": "{tr}sudo <on/off>",
     },
 )
 async def chat_blacklist(event):
-    "To enable or disable sudo of your CatUserbot."
+    "To enable or disable sudo of your kendyyUBT."
     input_str = event.pattern_match.group(1)
     sudousers = _sudousers_list()
     if input_str == "on":
